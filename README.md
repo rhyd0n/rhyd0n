@@ -6,7 +6,12 @@ Github stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynodejs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)              
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hello there, Im most of the time doing Node.js javascript
+
+Tools I use 🛠
+=============
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
 
 
