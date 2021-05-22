@@ -1,4 +1,4 @@
-![](https://giphy.com/gifs/covid-corona-virus-social-distance-QAbQfCJnZhO6bez6TH)
+[!](https://giphy.com/gifs/covid-corona-virus-social-distance-QAbQfCJnZhO6bez6TH)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynodejs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
