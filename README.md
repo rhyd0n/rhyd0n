@@ -1,3 +1,5 @@
+“There is no failure except in no longer trying.”– Elbert Hubbard
+=============
 
 📊 Github stats  
 =============
@@ -14,5 +16,3 @@
  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-https://img.shields.io/github/followers/trulynodejs.svg?style=social&label=Follow&maxAge=2592000
