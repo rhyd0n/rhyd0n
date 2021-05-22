@@ -1,4 +1,4 @@
-![Uzoma Medium Gif](https://user-images.githubusercontent.com/33858127/88416966-1e53ca00-cdaf-11ea-82f8-f8b90949ac73.gif)
+![Uzoma Medium Gif](![giphy](https://user-images.githubusercontent.com/80481493/119233129-56658f80-badc-11eb-820e-9c8ff33ce10a.gif))
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynodejs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
