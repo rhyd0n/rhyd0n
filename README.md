@@ -1,6 +1,6 @@
 “There is no failure except in no longer trying.”– Elbert Hubbard
 =============
-rophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
+![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
 
 📊 Github stats  
 =============
