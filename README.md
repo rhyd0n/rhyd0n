@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynodejs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![](https://komarev.com/ghpvc/?username=trulynodejs&color=green)
 
-![](<p align=left> <img src=https://komarev.com/ghpvc/?username=trulynodejs alt=trulynodejs /> </p>)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynodejs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=trulynodejs&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
