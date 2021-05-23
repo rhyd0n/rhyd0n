@@ -10,7 +10,7 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=trulynodejs&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=trulynodejs)](https://github.com/ryo-ma/github-profile-trophy)
 
 
               
