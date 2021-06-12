@@ -5,10 +5,10 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 📊 Github stats  
 =============
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulynodejs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trulynodejs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-gypt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-gypt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=trulynodejs&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
+![trophy](https://github-profile-trophy.vercel.app/?username=E-gypt&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
 
 
 
