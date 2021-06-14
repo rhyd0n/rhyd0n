@@ -9,9 +9,7 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=E-gypt&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
-
-
-
+<img src="https://komarev.com/ghpvc/?username=E-gypt" alt="Profile Views Count">
 
               
 
