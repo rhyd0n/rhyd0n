@@ -4,6 +4,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BinaryEgypt&show_icons=true&theme=radical)
 
-[!(https://github-profile-trophy.vercel.app/?username=BinaryEgypt&theme=juicyfresh&no-bg=true&no-frame=true&column=7")
+[!(https://github-profile-trophy.vercel.app/?username=BinaryEgypt&theme=juicyfresh)
 
 
