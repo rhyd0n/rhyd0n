@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/693885501916053575.png"/>
-
+</p>
 Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! <img src="https://komarev.com/ghpvc/?username=E-gypt" alt="Profile Views Count">
 =============
 
