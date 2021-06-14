@@ -3,7 +3,7 @@
 </p>
 <p align="center" width="100%">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<p>
+
 [!(https://github-profile-trophy.vercel.app/?username=BinaryEgypt&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
 
 
