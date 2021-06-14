@@ -3,7 +3,7 @@
 </p>  
   
  <p align="center">
-  <img scr="https://tenor.com/view/discord-gif-18646848"/>
+  <img src="https://tenor.com/view/discord-gif-18646848"/>
   </p>
 
   
