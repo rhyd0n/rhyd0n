@@ -1,7 +1,7 @@
 
 <a href="https://github.com/NotSwaraj">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=NotSwaraj" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=BinaryEgypt" alt="Profile Views Count">
   </p>
 </a>
 
