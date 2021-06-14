@@ -2,10 +2,7 @@
 <img src="https://discord.c99.nl/widget/theme-4/693885501916053575.png"/>
 </p>  
   
- <p align="center">
-  https://tenor.com/view/discord-gif-18646848
-  </p>
-
+![hippo](https://media.tenor.co/videos/f6c1bf767ea6468cfa2647e6507cc0b1/mp4)
   
   
   
