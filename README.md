@@ -23,4 +23,4 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
  
 Contact me
 =============
-<img src="https://discord.c99.nl/widget/theme-4/717468528822845440.png"/>
+
