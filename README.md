@@ -1,5 +1,7 @@
 Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! <img src="https://komarev.com/ghpvc/?username=E-gypt" alt="Profile Views Count">
 =============
+<img src="https://discord.c99.nl/widget/theme-4/693885501916053575.png"/>
+
  
  
 📊 Github stats 
@@ -21,6 +23,3 @@ programming langs i use
  ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) 
 
  
-Contact me
-=============
-<img src="https://discord.c99.nl/widget/theme-4/693885501916053575.png"/>
