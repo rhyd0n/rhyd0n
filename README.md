@@ -1,13 +1,11 @@
 
-<a href="https://github.com/NotSwaraj">
+<a href="https://github.com/BinaryEgypt">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=BinaryEgypt" alt="Profile Views Count">
   </p>
 </a>
 
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-4/693885501916053575.png"/>
-</p>  
+
 
 
 
