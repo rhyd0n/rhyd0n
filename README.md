@@ -20,10 +20,7 @@
 <br/>
 
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=m000000000n">
-</a>
-<a href="https://github.com/m000000000n?tab=followers"><img src="https://img.shields.io/github/followers/m000000000n?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
