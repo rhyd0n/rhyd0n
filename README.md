@@ -6,17 +6,13 @@
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
 ```csharp
-ecriminal@github
+7ua
 ----------------
 
-       OS  :  macOS arm64
-       WM  :  yabai
-    Shell  :  zsh 5.8
- Terminal  :  iTerm2
-      CPU  :  Apple M1
+       OS  :  Debain
     Alias  :  cs/checksum
-Languages  :  C, Go, PHP, Python
-  Discord  :  cs#0420
+Languages  :  Python, C, Javascript
+  Discord  :  
 ```
 
 <p align="left">
